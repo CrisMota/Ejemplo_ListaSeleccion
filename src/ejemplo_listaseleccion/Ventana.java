@@ -11,7 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 
 /**
- *
+ *  Se supone qie estop es u ncambio xd
  * @author Brandon A. Jacobo
  */
  public class Ventana extends JFrame implements ActionListener{
